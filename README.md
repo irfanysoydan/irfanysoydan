@@ -27,7 +27,6 @@ If you are interested in me and would like to know more, please reach out to me 
 <img alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
 <img alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />  
-
 [![website](./img/terminal-light.svg)](#gh-light-mode-only)
 [![website](./img/terminal-dark.svg)](#gh-dark-mode-only)
  
