@@ -14,7 +14,7 @@ Hello, I am İrfan Yunus Soydan. I am currently based in Izmir, Turkey and pursu
 
 Over the past few years, I have received training on various technologies and gained practical experience. I am particularly interested in technologies such as JavaScript, Node.js, MySQL, and REST API. I am also trying to learn TypeScript and some Front-End technologies. Through my work experience, I have gained familiarity with team work and software development processes. Currently, I am trying to participate in some projects as a Freelance developer and constantly improving my skills.
 
-If you are interested in me and would like to know more, please reach out to me via my email address listed in the contact section.
+If you are interested in me and would like to know more, please reach out to me via my LinkedIn listed in the connect section.
 
 ### Languages and Tools:
 
