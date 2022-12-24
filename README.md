@@ -1,12 +1,13 @@
-<div align="center">
+<div align = "center">
+
 
 # Hi there, I'm İrfan👋 
 
 ### Connect with me:
 
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)]
-[![website](./img/linkedin-dark.svg)]
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/irfanysoydan#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/irfanysoydan#gh-dark-mode-only)
 
 ### Languages and Tools:
 
@@ -23,10 +24,11 @@
 <br />
 
 <p align="center">
-<a href="https://github.com/lSelectral">
+<a href="https://github.com/irfansoydan">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=irfanysoydan&theme=dark"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfanysoydan&theme=dark"/>
 </a>
 </p>
+
 </div>
 
