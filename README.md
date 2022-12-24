@@ -33,8 +33,8 @@ If you are interested in me and would like to know more, please reach out to me 
 [![website]<img alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;"/>](https://linkedin.com/in/irfanyunussoydan#gh-light-mode-only)
  
 &nbsp;&nbsp;
-[![website](./img/terminal-light.svg)](#gh-dark-mode-only)
-[![website](./img/terminial-dark.svg)](#gh-dark-mode-only)
+[![website](./img/terminal-light.svg)](#gh-light-mode-only)
+[![website](./img/terminal-dark.svg)](#gh-dark-mode-only)
 
 <br />
 <br />
