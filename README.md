@@ -1,13 +1,7 @@
 <div align = "center">
 
 # Hi There👋
-
-### Connect with me:
-
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/irfanyunussoydan#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/irfanyunussoydan#gh-dark-mode-only)
-
+ 
 ### About me:
 
 Hello, I am İrfan Yunus Soydan. I am currently based in Izmir, Turkey and pursuing a bachelor's degree in Software Engineering at Manisa Celal Bayar University.
@@ -15,6 +9,14 @@ Hello, I am İrfan Yunus Soydan. I am currently based in Izmir, Turkey and pursu
 Over the past few years, I have received training on various technologies and gained practical experience. I am particularly interested in technologies such as JavaScript, Node.js, MySQL, and REST API. I am also trying to learn TypeScript and some Front-End technologies. Through my work experience, I have gained familiarity with team work and software development processes. Currently, I am trying to participate in some projects as a Freelance developer and constantly improving my skills.
 
 If you are interested in me and would like to know more, please reach out to me via my LinkedIn listed in the connect section.
+ 
+### Connect with me:
+
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/irfanyunussoydan#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/irfanyunussoydan#gh-dark-mode-only)
+
+
 
 ### Languages and Tools:
 
