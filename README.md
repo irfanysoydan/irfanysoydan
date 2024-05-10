@@ -4,9 +4,7 @@
  
 ### About me:
 
-Hello, I am İrfan Yunus Soydan. I am currently based in Izmir, Turkey and pursuing a bachelor's degree in Software Engineering at Manisa Celal Bayar University.
-
-Over the past few years, I have received training on various technologies and gained practical experience. I am particularly interested in technologies such as JavaScript, Node.js, MySQL, and REST API. I am also trying to learn TypeScript and some Front-End technologies. Through my work experience, I have gained familiarity with team work and software development processes. Currently, I am trying to participate in some projects as a Freelance developer and constantly improving my skills.
+Hello, my name is İrfan. I live in Izmir and I graduated from the Software Engineering department at Manisa Celal Bayar University. Throughout my education and experiences, I have mostly worked on Fullstack projects. In these projects, I have worked with technologies such as Node.js, Angular, as well as both SQL and NoSQL databases. Currently, I am striving to develop Clean Architecture projects using .NET technologies and working on expanding my technology stack. You can visit my website at irfansoydan.dev to review my work and get in touch with me.
 
 If you are interested in me and would like to know more, please reach out to me via my LinkedIn listed in the connect section.
  
